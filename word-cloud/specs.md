@@ -12,3 +12,4 @@ Prompt adapted from Coursera's [Crash Course on Python](https://www.coursera.org
 `$ [python/path] [path/to/]word-cloud.py [path/to/]word-cloud/texts/[filename].txt`
 
 ## Example Output
+![Example Output](https://i.ibb.co/R3kJmLn/wordcloud.jpg)
