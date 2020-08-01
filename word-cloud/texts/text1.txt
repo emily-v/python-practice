@@ -1,0 +1,23 @@
+In this tutorial, you use Python 3 to create the simplest Python "Hello World" application in Visual Studio Code. By using the Python extension, you make VS Code into a great lightweight Python IDE (which you may find a productive alternative to PyCharm).
+
+This tutorial introduces you to VS Code as a Python environment, primarily how to edit, run, and debug code through the following tasks:
+
+Write, run, and debug a Python "Hello World" Application!
+Learn how to install packages by creating Python virtual environments
+Write a simple Python script to plot figures within VS Code
+This tutorial is not intended to teach you Python itself. Once you are familiar with the basics of VS Code, you can then follow any of the programming tutorials on python.org within the context of VS Code for an introduction to the language.
+
+If you have any problems, feel free to file an issue for this tutorial in the VS Code documentation repository.
+
+Note: You can use VS Code with Python 2 with this tutorial, but you need to make appropriate changes to the code, which are not covered here.
+
+Prerequisites#
+To successfully complete this tutorial, you need to first setup your Python development environment. Specifically, this tutorial requires:
+
+VS Code
+VS Code Python extension
+Python 3
+Install Visual Studio Code and the Python Extension#
+If you have not already done so, install VS Code.
+
+Next, install the Python extension for VS Code from the Visual Studio Marketplace. For additional details on installing extensions, see Extension Marketplace. The Python extension is named Python and it's published by Microsoft.!
